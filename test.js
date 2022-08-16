@@ -3,4 +3,4 @@ while (alive) {
     sleep();
     code();
     repeat();
-  }
+}
